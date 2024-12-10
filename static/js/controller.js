@@ -12,14 +12,14 @@ let sketchConfigs = [
         displayTime: 10000,
         options: {}
     },
-    {
-        title: 'Ascii Clown',
-        path: './sketches/ascii-image.js',
-        displayTime: 10000,
-        options: {
-            needsAsciify: true,
-        }
-    },
+    // {
+    //     title: 'Ascii Clown',
+    //     path: './sketches/ascii-image.js',
+    //     displayTime: 10000,
+    //     options: {
+    //         needsAsciify: true,
+    //     }
+    // },
 ];
 
 function loadSketch(sketchPath, needsAsciify) {
